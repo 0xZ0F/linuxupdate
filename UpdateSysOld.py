@@ -34,6 +34,6 @@ def upgradeDist():
 	elif(usrInput == "n" or usrInput == "N"):
 		print(bcolors.green + "Updating finished! Have a good day/night!" + bcolors.reset)
 	else:
-		upgradeDis()
+		upgradeDist()
 
 upgradeDist()
