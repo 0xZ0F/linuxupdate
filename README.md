@@ -12,7 +12,7 @@ The script will ask you if you want to upgrade your distributions as well.
 The script updates and upgrades once redundently (runs both upgrade and update twice).
 
 ### Note:
-This script was made for my personal use, it's not perfect. I tried to make it prettier but again, it was made for personal use. I decided to share the script if someone else thought it would be helpful. Feel free to submit and issue but don't expect it to be fixed anytime soon :)
+This script was originally made for my personal use, it's not perfect. I tried to make it prettier for sharing but again, it was originally made for personal use. I decided to share the script if someone else thought it would be helpful. Feel free to submit and issue but don't expect it to be fixed anytime soon :)
 
 # Follow me on Twitter: @0xZ0F
 
