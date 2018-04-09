@@ -1,5 +1,5 @@
 # linuxupdate
-## A script to upgrade your system. This makes life a little easier.
+This is a script to upgrade your LINUX system. It makes life a little easier :)
 
 ## The old script uses "apt-get" instead of just "apt". I'd reccomend you use the current script (the one that uses just "apt").
 
