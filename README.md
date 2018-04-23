@@ -1,6 +1,8 @@
 # linuxupdate
 This is a script to upgrade your LINUX system. It makes life a little easier :)
 
+Note: I understand that the quality of this script is low and I should probably make it with bash (will soon), but it was hacked together for a reason. It was quick and easy to make. If you care that much, please move on. I will update it soon, chill. Understand, this was for personal use, I know it is bad, it's not supposed to be good, it's supposed to work.
+
 ## The old script uses "apt-get" instead of just "apt". I'd reccomend you use the current script (the one that uses just "apt").
 
 The script requires Python and apt (they come with linux by default). 
