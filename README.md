@@ -1,8 +1,6 @@
 # linuxupdate
 This is a script to upgrade your LINUX system. It makes life a little easier :)
 
-## This script uses apt instead of apt-get. If that is a problem, just edit the script ;)
-
 The script requires apt. You should have that :)
 ### Features:
 Make updating your Linux system quicker!
